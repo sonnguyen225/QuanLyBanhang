@@ -89,6 +89,12 @@
     <Compile Include="Form\frmDMKhachHang.Designer.cs">
       <DependentUpon>frmDMKhachHang.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form\frmBaocaosanpham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmBaocaosanpham.Designer.cs">
+      <DependentUpon>frmBaocaosanpham.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -128,6 +134,9 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>QuanlybanhangDataSet1.xsd</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Form\frmBaocaosanpham.resx">
+      <DependentUpon>frmBaocaosanpham.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form\frmDMHang.resx">
       <DependentUpon>frmDMHang.cs</DependentUpon>
     </EmbeddedResource>
