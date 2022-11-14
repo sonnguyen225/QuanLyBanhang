@@ -1,0 +1,65 @@
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\bin\Debug\QL_BanHangThuanAn.exe
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\bin\Debug\QL_BanHangThuanAn.pdb
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmTimHDBan.resources
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmMain.resources
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.Properties.Resources.resources
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csproj.GenerateResource.Cache
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.exe
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.pdb
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmDMNhaCC.resources
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmDMNhanVien.resources
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmDMKhachHang.resources
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmDMHangHoa.resources
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmHoadonBan.resources
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csprojResolveAssemblyReference.cache
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmLogin.resources
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\Interop.VBIDE.dll
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csproj.ResolveComReference.cache
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\bin\Debug\rptSanPham.rdlc
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmBaocaosanpham.resources
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\RdlCompile.cache
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\RdlCompile.compiled
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmTKKinhdoanh.resources
+D:\software\MSvisualstudio\Project\QL_BanHangThuanAn\QL_BanHangThuanAn\bin\Debug\rptKinhdoanh.rdlc
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\bin\Debug\rptKinhdoanh.rdlc
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\bin\Debug\rptSanPham.rdlc
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\bin\Debug\QL_BanHangThuanAn.exe
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\bin\Debug\QL_BanHangThuanAn.pdb
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csproj.AssemblyReference.cache
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\Interop.VBIDE.dll
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csproj.ResolveComReference.cache
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmBaocaosanpham.resources
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmDMHangHoa.resources
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmDMKhachHang.resources
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmHoadonBan.resources
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmDMNhaCC.resources
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmTimHDBan.resources
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmLogin.resources
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmMain.resources
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmDMNhanVien.resources
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmTKKinhdoanh.resources
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.Properties.Resources.resources
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csproj.GenerateResource.cache
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csproj.CoreCompileInputs.cache
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csproj.CopyComplete
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.exe
+D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.pdb
+E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csproj.AssemblyReference.cache
+E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\Interop.VBIDE.dll
+E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csproj.ResolveComReference.cache
+E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmLogin.resources
+E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmMain.resources
+E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.Properties.Resources.resources
+E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csproj.GenerateResource.cache
+E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csproj.CoreCompileInputs.cache
+E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.exe
+E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.pdb
