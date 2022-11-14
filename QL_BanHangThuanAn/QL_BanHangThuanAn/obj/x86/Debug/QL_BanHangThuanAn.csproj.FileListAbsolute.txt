@@ -51,15 +51,3 @@ D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThu
 D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csproj.CopyComplete
 D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.exe
 D:\DoAn_05112022\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.pdb
-E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csproj.AssemblyReference.cache
-E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
-E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
-E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\Interop.VBIDE.dll
-E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csproj.ResolveComReference.cache
-E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmLogin.resources
-E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.frmMain.resources
-E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.Properties.Resources.resources
-E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csproj.GenerateResource.cache
-E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.csproj.CoreCompileInputs.cache
-E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.exe
-E:\Ngành CNTT\Thi tháng 11\IT40\ban hang\ban hang\QL_BanHangThuanAn\QL_BanHangThuanAn\obj\x86\Debug\QL_BanHangThuanAn.pdb
