@@ -77,6 +77,12 @@
     <Compile Include="Form\frmDMHang.Designer.cs">
       <DependentUpon>frmDMHang.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form\frmHoadonBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmHoadonBan.Designer.cs">
+      <DependentUpon>frmHoadonBan.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form\frmDMKhachHang.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -101,6 +107,12 @@
     <Compile Include="Form\frmDMNhanVien.Designer.cs">
       <DependentUpon>frmDMNhanVien.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form\frmTimHDBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmTimHDBan.Designer.cs">
+      <DependentUpon>frmTimHDBan.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmMenu.cs" />
     <Compile Include="frmTKKinhdoanh.cs">
       <SubType>Form</SubType>
@@ -122,8 +134,14 @@
     <EmbeddedResource Include="Form\frmDMKhachHang.resx">
       <DependentUpon>frmDMKhachHang.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmHoadonBan.resx">
+      <DependentUpon>frmHoadonBan.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form\frmDMNhaCC.resx">
       <DependentUpon>frmDMNhaCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmTimHDBan.resx">
+      <DependentUpon>frmTimHDBan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
